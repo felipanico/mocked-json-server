@@ -1,10 +1,6 @@
-  
-{
-    "posts": [
-        { "id": 1, "title": "json-server", "author": "typicode" }
-    ],
-    "comments": [
-        { "id": 1, "body": "some comment", "postId": 1 }
-    ],
-    "profile": { "name": "typicode" }
+{ 
+    "transactionStatus": "approved", 
+    "createTime": "2020-10-21T12:34:42Z", 
+    "updateTime": "2020-10-21T12:34:49Z", 
+    "paymentID": "PAY-2FF45234SD7877610L6ICVYQ"
 }
